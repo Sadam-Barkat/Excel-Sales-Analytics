@@ -20,6 +20,6 @@ This project provides a sales analytics solution using Excel, offering insights 
 
 ## Contact
 
-- **Name**: Dinu
+- **Name**: Sadam Barkat
 - **Email**: sadambarkat405@gmail.com
 - **LinkedIn**: https://www.linkedin.com/in/sadam-barkat/
